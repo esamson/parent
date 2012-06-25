@@ -10,7 +10,7 @@
 
     <groupId>ph.samson</groupId>
     <artifactId>parent</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Samson.PH Parent</name>
@@ -41,6 +41,7 @@
         <connection>scm:git:https://github.com/esamson/parent.git</connection>
         <developerConnection>scm:git:git@github.com:esamson/parent.git</developerConnection>
         <url>https://github.com/esamson/parent</url>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
